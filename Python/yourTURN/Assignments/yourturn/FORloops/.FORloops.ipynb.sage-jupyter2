@@ -1,0 +1,13 @@
+{"backend_state":"init","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"}},"trust":false,"type":"settings"}
+{"cell_type":"markdown","exec_count":0,"id":"57b516","input":"## Exercise 1\n\nCreate a for loop that prints out 0 to 9 on the screen\n\n","pos":1,"state":"done","type":"cell"}
+{"cell_type":"markdown","id":"db79f8","input":"# FOR Loops\n\n","pos":0,"state":"done","type":"cell"}
+{"id":"37fe22","input":"","pos":1.1875,"state":"done","type":"cell"}
+{"id":"3e6859","input":"","pos":4.5,"state":"done","type":"cell"}
+{"id":"64f4a6","input":"","pos":2.5,"state":"done","type":"cell"}
+{"id":"8489d5","input":"","pos":0.5,"state":"done","type":"cell"}
+{"id":"9ad44b","input":"# Put Your Code Here","pos":4,"state":"done","type":"cell"}
+{"id":"a19336","input":"","pos":5,"state":"done","type":"cell"}
+{"id":"aed3d8","input":"","pos":1.75,"state":"done","type":"cell"}
+{"id":"e8ad86","input":"","pos":1.375,"state":"done","type":"cell"}
+{"id":0,"time":1676049693078,"type":"user"}
+{"last_load":1676046883067,"type":"file"}

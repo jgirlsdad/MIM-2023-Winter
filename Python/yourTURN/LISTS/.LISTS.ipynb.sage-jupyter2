@@ -1,0 +1,12 @@
+{"backend_state":"running","connection_file":"/tmp/xdg-runtime-user/jupyter/kernel-8ccb6342-a6d8-45aa-b20b-e3a88c2d9bf2.json","kernel":"python3","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"3d29f8","input":"# Add your code here","pos":4,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"b323fd","input":"# Add code here","pos":2,"type":"cell"}
+{"cell_type":"markdown","id":"0b7083","input":"## Exercise 4\n\nUsing List comprehension, find all numbers between 1 and 500 that are divisible by 7\n","pos":8,"type":"cell"}
+{"cell_type":"markdown","id":"293c8c","input":"# Lists\n\n","pos":0,"type":"cell"}
+{"cell_type":"markdown","id":"445d3c","input":"## Exercise 3\n\n1 Use List Comprehension to divide each number by 3 and add 6.5 to the results\n\n2 Sum all the items in the resulting list \n\nHint : look up the sum\\(\\) function\n","pos":5,"type":"cell"}
+{"cell_type":"markdown","id":"7258ca","input":"## Exercise \\#1\n\n1. <span style='font-size:large'>Create a list of at least 5 items that are all integers</span>\n2. <span style='font-size:large'>Add 4 to each item in the list and store the results in a </span><span style='font-size:large'>**new**</span><span style='font-size:large'> list</span>\n3. <span style='font-size:large'>For this, DO NOT use list comprehension</span>\n\n","pos":1,"type":"cell"}
+{"cell_type":"markdown","id":"af411b","input":"## Exercise 2\n\n<span style='font-size:large'>Create a list with 10 different random numbers </span>\n\n<span style='font-size:large'>Sort the list in ascending order then print the list to the screen</span>\n\n<span style='font-size:large'>Hint:  You can use the random.random\\(\\) library to generate the random unbers</span>\n","pos":3,"type":"cell"}
+{"exec_count":1,"id":"08b77c","input":"uu = [1,99,34,76,12,18,92,6]\n","kernel":"python3","pos":6,"state":"done","type":"cell"}
+{"id":"9a8c3f","input":"#  Add Code Here","pos":10,"type":"cell"}
+{"id":0,"time":1676267684237,"type":"user"}
+{"last_load":1676267684390,"type":"file"}

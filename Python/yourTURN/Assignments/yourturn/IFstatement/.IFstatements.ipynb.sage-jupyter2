@@ -1,0 +1,19 @@
+{"backend_state":"init","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"}},"trust":false,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"1df7c1","input":"","pos":14,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"3a1c2a","input":"## Put code here","pos":6,"type":"cell"}
+{"cell_type":"code","exec_count":1,"id":"0bfe9d","input":"import random","pos":1,"type":"cell"}
+{"cell_type":"code","exec_count":3,"id":"0cb53c","input":"grade = random.uniform(50,100)\nprint(grade)","output":{"0":{"name":"stdout","output_type":"stream","text":"73.00161941839252\n"}},"pos":4,"type":"cell"}
+{"cell_type":"code","exec_count":7,"id":"45c41e","input":"num = int(random.random()*10)","pos":9,"type":"cell"}
+{"cell_type":"code","exec_count":8,"id":"0ca081","input":"# put code here that prints out if num is odd or even","output":{"0":{"data":{"text/plain":"2"},"exec_count":8,"output_type":"execute_result"}},"pos":10,"type":"cell"}
+{"cell_type":"code","exec_count":9,"id":"dca561","input":"num = int(random.uniform(6,50))\nnum","output":{"0":{"data":{"text/plain":"46"},"exec_count":9,"output_type":"execute_result"}},"pos":13,"type":"cell"}
+{"cell_type":"markdown","id":"11cd85","input":"# IF Statements","pos":0,"type":"cell"}
+{"cell_type":"markdown","id":"244ded","input":"Now, write code to determine if num below is divisible by 2, by 3, or BOTH","pos":12,"type":"cell"}
+{"cell_type":"markdown","id":"50360d","input":"Using if..elif..else statements, print out the letter grade for the grade above, using this scale:\n<ul>\n<li>A ->   90 - 100\n<li>B ->   80 - 89.999\n<li>C ->   70 - 79.999\n<li>F ->   < 70\n               </ul>","pos":5,"type":"cell"}
+{"cell_type":"markdown","id":"633239","input":"## Exercise 2","pos":7,"type":"cell"}
+{"cell_type":"markdown","id":"687957","input":"Write an if statement that will print out if odd or even\n\nYou can use the  % (called the modulo operator) to return the remainder of 1 number divided by another\n\nso if num%2  is 0, then the number is evenly divisible by 2 and is even\n<p>\n    https://www.geeksforgeeks.org/what-is-a-modulo-operator-in-python/\n<p>  \nFeel free to practice it a little below\n","pos":8,"type":"cell"}
+{"cell_type":"markdown","id":"769365","input":"<b>random</b> is a Python library that generates random numbers.  \n\nhttps://docs.python.org/3/library/random.html","pos":2,"type":"cell"}
+{"cell_type":"markdown","id":"e12f96","input":"## Exercise 3","pos":11,"type":"cell"}
+{"cell_type":"markdown","id":"ffb869","input":"## Exercise 1","pos":3,"type":"cell"}
+{"id":"9dfda7","input":"","pos":2.5,"type":"cell"}
+{"id":0,"time":1676046520216,"type":"user"}
+{"last_load":1676002902299,"type":"file"}
